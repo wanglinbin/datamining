@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1352534836 source:/home/gezi/Project/data_mining/co_author/main.cpp
+	"include.h"
+	"process_file.h"
+	"get_freset1.h"
+	"get_freset2.h"
+
+1352471349 source:/home/gezi/Project/data_mining/co_author/process_string.cpp
+	"process_string.h"
+
+1305426297 source:/home/gezi/Project/data_mining/co_author/tinystr.cpp
+	"tinystr.h"
+
+1305426297 /home/gezi/Project/data_mining/co_author/tinystr.h
+	<assert.h>
+	<string.h>
+
+1305426297 source:/home/gezi/Project/data_mining/co_author/tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1305426297 /home/gezi/Project/data_mining/co_author/tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1305426297 source:/home/gezi/Project/data_mining/co_author/tinyxmlerror.cpp
+	"tinyxml.h"
+
+1305426297 source:/home/gezi/Project/data_mining/co_author/tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1352471215 /home/gezi/Project/data_mining/co_author/process_string.h
+	"include.h"
+
+1352535066 source:/home/gezi/Project/data_mining/co_author/process_file.cpp
+	"process_file.h"
+	"process_string.h"
+
+1352471174 /home/gezi/Project/data_mining/co_author/process_file.h
+	"include.h"
+
+1352532966 source:/home/gezi/Project/data_mining/co_author/get_freset1.cpp
+	"get_freset1.h"
+
+1352476196 /home/gezi/Project/data_mining/co_author/get_freset1.h
+	"include.h"
+
+1352534974 /home/gezi/Project/data_mining/co_author/include.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<list>
+	<stdlib.h>
+	<stdio.h>
+
+1352534011 source:/home/gezi/Project/data_mining/co_author/get_freset2.cpp
+	"get_freset2.h"
+
+1352532568 /home/gezi/Project/data_mining/co_author/get_freset2.h
+	"include.h"
+	<algorithm>
+
